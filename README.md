@@ -8,6 +8,6 @@ This package has been tested to be working on:
 
 
 [open-rmf]: <https://www.open-rmf.org/>
-[rmf_api_msgs]: <rmf_api_msgs>
+[rmf_api_msgs]: <https://github.com/open-rmf/rmf_api_msgs>
 [rtls_adapter_ros2_template]: <>
 [ROS2 Galactic]: <https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html>
